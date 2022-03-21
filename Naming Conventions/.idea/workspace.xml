@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="58a2ba0a-9abe-40d3-bc8b-9a4bd45adc2f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Assignment2/out/production/Assignment2/AlphabetCheck.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment2/out/production/Assignment2/AlphabetCheck.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment5/out/production/Assignment5/Tofik/Assignments/Data/DefaultInitialization.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment5/out/production/Assignment5/Tofik/Assignments/Data/DefaultInitialization.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment5/out/production/Assignment5/Tofik/Assignments/Main/Mainmethod.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment5/out/production/Assignment5/Tofik/Assignments/Singelton/NonstaticMemberstring.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment5/src/Tofik/Assignments/Data/DefaultInitialization.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment5/src/Tofik/Assignments/Data/DefaultInitialization.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment5/src/Tofik/Assignments/Main/Mainmethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment5/src/Tofik/Assignments/Main/Mainmethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment5/src/Tofik/Assignments/Singelton/NonstaticMemberstring.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment5/src/Tofik/Assignments/Singelton/NonstaticMemberstring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment7/src/Cycle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment7/src/Cycle.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="26gP5lziVIU75aL33Ru2y10SJft" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="58a2ba0a-9abe-40d3-bc8b-9a4bd45adc2f" name="Changes" comment="" />
+      <created>1647842076798</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1647842076798</updated>
+    </task>
+    <servers />
+  </component>
+</project>
